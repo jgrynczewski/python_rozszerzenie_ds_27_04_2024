@@ -3,8 +3,6 @@
 # klasy nazywamy zgodnie z konwencja CamelCase - MojaNowaKlasa
 # ciekawoskta: (upper camel case - MojaNazwaKlasy, lower camel case (aka pascal case) mojaNazwaKlasy
 
-# DRY - Don't Repeat Yourself
-
 # definicja klasy Cow
 class Cow:
     def __init__(self, name, age=0):
