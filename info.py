@@ -1,6 +1,6 @@
 # Rodzaje błędów
 # 1. Błędy składniowe
-# 2. Błędy czasu wykonywania - wyjątkami
+# 2. Błędy czasu wykonywania - wyjątki
 # 3. Błędy logiczne
 
 print("Ala ma kota")
@@ -19,6 +19,5 @@ def func():
     print("Hello")
 
 
-
 #######
-z = func()
+func()

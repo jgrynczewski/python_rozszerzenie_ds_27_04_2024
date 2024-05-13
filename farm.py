@@ -1,7 +1,7 @@
 # nazewnictwo klas
-# zmienne, funkcje, pliki (moduły), foldery (pakiety) nazywa zgodnie z konwencją snake case moja_nowa_zmienna
+# zmienne, funkcje, pliki (moduły), foldery (pakiety) nazywamy zgodnie z konwencją snake case: moja_nowa_zmienna
 # klasy nazywamy zgodnie z konwencja CamelCase - MojaNowaKlasa
-# ciekawoskta: (upper camel case - MojaNazwaKlasy, lower camel case (aka pascal case) mojaNazwaKlasy
+# ciekawostka: (upper camel case - MojaNazwaKlasy, lower camel case (aka pascal case) mojaNazwaKlasy - nie stosowana w pythonie)
 
 # definicja klasy Cow
 class Cow:

@@ -1,4 +1,4 @@
-# Dziedziczenie jako realizacja zasady DRY - Don't Repeat Yourself
+# Dziedziczenie jako realizacja zasady DRY - Don't Repeat Yourself w obiektówce
 # Inheritance (IS-A) relacja typu jest, dziedziczenie
 class Animal:
     def say_hi(self):
